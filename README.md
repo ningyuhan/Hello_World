@@ -1,5 +1,4 @@
 # Hello_World
-# TABLE OF CONTENT **bold text**
 
 
 Practice Repository
